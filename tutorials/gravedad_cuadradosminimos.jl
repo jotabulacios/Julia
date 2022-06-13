@@ -21,7 +21,17 @@ using Plots
 using PlutoUI, CSV,DataFrames
 
 # ╔═╡ 748b5129-c1b4-4c5c-bb19-4f9c149937af
+# hideall
+title = "Gravedad";
 
+"""
++++
+title = "$title"
++++
+""" |> Base.Text
+
+md"""
+# $title
 
 # ╔═╡ b19aa6c6-78d0-499f-bc81-344acd9c01f6
 plotly()
