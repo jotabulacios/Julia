@@ -2,7 +2,7 @@
 title = "Getting started"
 +++
 
-# Getting started
+# ¿Por qué Julia?
 
 This page contains some detailed instructions on creating your own website with Julia tutorials.
 If you are more familiar with Julia development and GitHub Actions and Pages, then see the [Homepage](/) for more generic instructions.
